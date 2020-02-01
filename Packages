@@ -1,0 +1,18 @@
+Package: com.yazidalenixi.appstoreplusplus
+Version: 0.9.6
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: debfiles/com.yazidalenixi.appstoreplusplus_0.9.6_iphoneos-arm.deb
+Size: 742904
+MD5sum: d1524a5b537e4f9296dd16e869b90a21
+SHA1: 2a537c78048a71674d57d412361d2e7aca49b9bd
+SHA256: acfd059f86172a6b9cc7d6c5d13afb72e8651cfc9ada1d12b2b16d7bb49d680c
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.2
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Name: AppStore++
+
